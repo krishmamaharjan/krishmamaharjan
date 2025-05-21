@@ -58,7 +58,9 @@ I am a student currently pursuing Bsc.CSIT from Sagarmatha College of Science an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishmamaharjan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+*Thanks for stopping by! ⭐*
 [![](https://visitcount.itsvg.in/api?id=krishmamaharjan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=krishmamaharjan)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
