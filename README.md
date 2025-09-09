@@ -42,17 +42,21 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
+  <b>Welcome to my GitHub profile!</b> 
+</p>
+
+<!--
+<p align="center">
   <em>🎓 Student | Aspiring Developer</em>
 </p>
 
 ---
 
-<!--**Welcome to my GitHub profile!** -->
-<p align="center">
-  <b>Welcome to my GitHub profile!</b> 
-</p>
 
-I am a student currently pursuing Bsc.CSIT from Sagarmatha College of Science and Technology. I'm passionate about learning new technologies and building real-world applications. Currently, I’m focused on growing my skills as a developer and exploring exciting areas in tech.
+
+
+
+<!--I am a student currently pursuing Bsc.CSIT from Sagarmatha College of Science and Technology. I'm passionate about learning new technologies and building real-world applications. Currently, I’m focused on growing my skills as a developer and exploring exciting areas in tech.
 
 
 ## 🌐 Socials:
@@ -70,7 +74,7 @@ I am a student currently pursuing Bsc.CSIT from Sagarmatha College of Science an
 ![](https://github-readme-stats.vercel.app/api?username=krishmamaharjan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=krishmamaharjan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishmamaharjan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishmamaharjan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=krishmamaharjan&theme=dark&hide_border=false" /><br/><br/>
@@ -80,7 +84,7 @@ I am a student currently pursuing Bsc.CSIT from Sagarmatha College of Science an
 ---
 *Thanks for stopping by! ⭐*
 [![](https://visitcount.itsvg.in/api?id=krishmamaharjan&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 <!--![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=krishmamaharjan) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
